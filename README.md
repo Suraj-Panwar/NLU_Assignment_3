@@ -9,3 +9,6 @@ The file contains the program to execute CRF library implemented in SKLEARN the 
 
 3. Neural_NER.py
 The file contains the code for executing a LSTM network on the target padded embeddings to produce a probability based model for NER recognition, the program is executed using Keras with tensorflow backend and the resulting accuracy on the validation set is obtained and displayed in the program.
+
+NOTE:
+Unfortunately due to limit of 25 Mb on files on Github the Glove embedding file can not be uploaded here, but have been submitted on the drive !
